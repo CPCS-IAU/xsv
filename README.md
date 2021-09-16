@@ -1,3 +1,6 @@
+
+This repo contains a recent windows build of the xsv project containing the latest commands. See below for more detiled docs.
+
 xsv is a command line program for indexing, slicing, analyzing, splitting
 and joining CSV files.
 
