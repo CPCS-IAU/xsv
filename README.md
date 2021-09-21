@@ -57,19 +57,11 @@ cd d:\temp
 xsv.exe
 ```
 
-The above command shows the help documentation for each individual command.
-```bash
-xsv.exe partition --help
-```
-
 The command below shows the help documentation for each individual command.
 ```bash
 xsv.exe partition --help
 ```
 
-The command below shows the help documentation for each individual command.
-```bash
-xsv.exe partition --help
-```
+
 
 
